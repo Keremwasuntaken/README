@@ -13,7 +13,7 @@ Ben bir yazılım geliştiricisiyim ve teknolojiye olan ilgim sürekli olarak ye
 
 ## Projelerim
 Bu repoda geliştirdiğim bazı projelere göz atabilirsiniz:
-Daha Eklemedim
+- **Daha Eklemedim**
 
 
 ## Hedeflerim
