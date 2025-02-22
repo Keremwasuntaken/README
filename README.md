@@ -21,6 +21,4 @@ Bu repoda geliştirdiğim bazı projelere göz atabilirsiniz:
 - Kodlama becerilerimi geliştirmek ve daha verimli çözümler üretmek.
 - Endüstrideki yeni teknolojilere ayak uydurmak ve sürekli öğrenmek.
 
-![Rastgele Anime GIF](https://api.tenor.com/v1/random?key=AIzaSyDAiSKDLAJ497t52--BqmggJO47bbtx1tQ&q=anime&limit=1)
-)
 
