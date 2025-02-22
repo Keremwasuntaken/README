@@ -21,5 +21,6 @@ Bu repoda geliştirdiğim bazı projelere göz atabilirsiniz:
 - Kodlama becerilerimi geliştirmek ve daha verimli çözümler üretmek.
 - Endüstrideki yeni teknolojilere ayak uydurmak ve sürekli öğrenmek.
 
-![Rastgele Anime GIF](https://api.giphy.com/v1/gifs/random?api_key=YOUR_API_KEY&tag=anime&rating=pg-13)
+![Rastgele Anime GIF](https://api.tenor.com/v1/random?key=AIzaSyDAiSKDLAJ497t52--BqmggJO47bbtx1tQ&q=anime+girl&limit=1)
+)
 
